@@ -314,7 +314,7 @@
       tags:
       - WeakToSalt
     statusEffect: Corporeal
-    duration: 15
+    duration: 8
   - type: SaltLinePlacer # Goobstation - Wraith
     saltLine: SaltLine
   - type: ConsumeOnSaltLine # Goobstation - Wraith
@@ -623,7 +623,7 @@
       tags:
       - WeakToSalt
     statusEffect: Corporeal
-    duration: 15
+    duration: 5 # tiny item thats hard to notice
   - type: SaltLinePlacer # Goobstation - Wraith
     saltLine: SaltLine
   - type: ConsumeOnSaltLine # Goobstation - Wraith

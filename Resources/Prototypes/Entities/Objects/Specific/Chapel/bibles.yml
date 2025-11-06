@@ -200,7 +200,7 @@
       tags:
       - WeakToSalt
     statusEffect: Corporeal
-    duration: 5
+    duration: 10
 
 - type: entity
   parent: [Bible, BaseSyndicateContraband]

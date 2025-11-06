@@ -177,7 +177,7 @@
   description: Possess and control an everyday object. Freakout level high.
   components:
   - type: ActionWraithPoints
-    wpConsume: 300
+    wpConsume: 150
   - type: Action
     itemIconStyle: BigAction
     useDelay: 150

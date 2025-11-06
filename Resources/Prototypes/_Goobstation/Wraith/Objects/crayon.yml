@@ -13,7 +13,8 @@
     color: '#a70000'
     infinite: true
   - type: BloodCrayon
-    wpConsume: -5
+    wpConsume: -2
+  - type: Unremoveable
   - type: Tag
     tags:
     - Write

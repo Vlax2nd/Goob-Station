@@ -19,7 +19,7 @@ public sealed partial class HauntComponent : Component
     /// How much the Wp regeneration gets boosted per witness.
     /// </summary>
     [DataField]
-    public FixedPoint2 HauntWpRegenPerWitness = 0.5;
+    public FixedPoint2 HauntWpRegenPerWitness = 2.5;
 
     /// <summary>
     /// How long the Wp regen boost lasts.
